@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="unit_padding">16dp</dimen>
+    <dimen name="uniform_padding">16dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="header_size">60dp</dimen>
+    <dimen name="small_icon_size">35dp</dimen>
+    <dimen name="small_icon_text_size">20sp</dimen>
+    <dimen name="small_icon_wrapper_width">130dp</dimen>
+    <dimen name="home_bottom_text">12sp</dimen>
+    <dimen name="home_top_search_icon">20dp</dimen>
+    <dimen name="home_top_input_box_h">40dp</dimen>
+    <dimen name="home_top_header">30dp</dimen>
+    <dimen name="home_top_more">30dp</dimen>
+    <dimen name="home_video_wra">145dp</dimen>
+    <dimen name="home_sort_item_h">100dp</dimen>
+    <dimen name="home_sort_video_intro">15sp</dimen>
+    <dimen name="home_sort_video_post_man">10sp</dimen>
+    <dimen name="home_sort_video_play_icon">10dp</dimen>
+    <dimen name="home_sort_more">15dp</dimen>
+    <dimen name="home_slide_text">15sp</dimen>
+<!--    其他人的空间-->
+    <dimen name="other_user_three_text">15sp</dimen>
+    <dimen name="other_user_three_num">10sp</dimen>
+    <dimen name="other_user_name_dy">20sp</dimen>
+    <dimen name="other_user_intro">12sp</dimen>
+    <dimen name="other_dy_video_intro">15sp</dimen>
+    <dimen name="other_dy_user_icon_size">60dp</dimen>
+    <dimen name="other_dy_slide_bar_h">60dp</dimen>
+    <dimen name="other_intro_h">60dp</dimen>
+    <dimen name="other_item_video_play_num">15sp</dimen>
+    <dimen name="other_item_video_icon">20dp</dimen>
+
+    <dimen name="my_user_name">20sp</dimen>
+    <dimen name="my_user_three_text">20sp</dimen>
+    <dimen name="my_user_three_num">15sp</dimen>
+    <dimen name="my_user_header_size">70dp</dimen>
+    <dimen name="my_icon_size">30dp</dimen>
+    <dimen name="my_iocn_text">15sp</dimen>
+    <dimen name="my_bottom_icon">20dp</dimen>
+    <dimen name="my_bottom_iocn_text">15sp</dimen>
+    <dimen name="home_video_intro">12sp</dimen>
+    <dimen name="sorts_small_class_text">13sp</dimen>
+    <dimen name="text_size_25">25sp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+<!--    dynamic_frament-->
+    <dimen name="dynamic_main_title">25sp</dimen>
+<!--    item_dynamic-->
+    <dimen name="dynamic_time_text">12sp</dimen>
+    <dimen name="dynamic_user_name_text">18sp</dimen>
+    <dimen name="dynamic_intro_text_size">18sp</dimen>
+    <dimen name="dynamic_bottom_icon_gap">60dp</dimen>
+    <dimen name="dynamic_bottom_comment">40dp</dimen>
+    <dimen name="dynamic_bottom_icon">25dp</dimen>
+    <dimen name="dynamic_bottom_icon_text">15sp</dimen>
+    <dimen name="dynamic_header">40dp</dimen>
+    <dimen name="dynamic_bottom_liulan">10sp</dimen>
+    <dimen name="dynamic_pic_h">180dp</dimen>
+<!--    activity_video_play活动里面-->
+    <dimen name="video_play_video_wra">150dp</dimen>
+    <dimen name="video_play_video_intro">15sp</dimen>
+    <dimen name="video_play_user_name">15sp</dimen>
+    <dimen name="video_play_user_fans">12sp</dimen>
+    <dimen name="video_play_btn_w">60dp</dimen>
+    <dimen name="video_play_btn_h">20dp</dimen>
+    <dimen name="video_play_play_num">10sp</dimen>
+    <dimen name="video_play_play_icon">15dp</dimen>
+    <dimen name="video_play_slide_text">15sp</dimen>
+    <dimen name="video_play_slide_h">30dp</dimen>
+    <dimen name="video_play_bottom_icon_text">13sp</dimen>
+    <dimen name="video_play_bottom_icon">20dp</dimen>
+    <dimen name="video_play_bottom_bar">60dp</dimen>
+    <dimen name="video_play_bottom_edit">40dp</dimen>
+    <dimen name="video_play_user_header">30dp</dimen>
+    <dimen name="video_play_bottom_edit_text">15sp</dimen>
+    <dimen name="video_play_btn_play">20dp</dimen>
+    <dimen name="video_play_play_time">10sp</dimen>
+    <dimen name="video_play_full_screen_icon">20dp</dimen>
+    <dimen name="video_play_comment_post_size">15sp</dimen>
+<!--    评论item_comment-->
+    <dimen name="comment_text">15sp</dimen>
+    <dimen name="comment_user_name">13sp</dimen>
+    <dimen name="comment_post_time">10sp</dimen>
+    <dimen name="comment_header">30dp</dimen>
+    <dimen name="comment_bottom_icon">15dp</dimen>
+    <dimen name="comment_botttom_icon_text">12sp</dimen>
+<!--    item_other_video-->
+    <dimen name="other_video_wra_h">80dp</dimen>
+<!--    post_activity-->
+    <dimen name="post_top_h">40dp</dimen>
+    <dimen name="post_top_cancel">25dp</dimen>
+    <dimen name="post_top_btn_post_w">60dp</dimen>
+    <dimen name="post_top_btn_post_h">30dp</dimen>
+    <dimen name="post_top_btn_text">10sp</dimen>
+    <dimen name="post_scroll_h">40dp</dimen>
+    <dimen name="post_tuijian_text">15sp</dimen>
+    <dimen name="post_scroll_btn_h">25dp</dimen>
+    <dimen name="post_scroll_text">12sp</dimen>
+    <dimen name="post_bottom_bar_h">50dp</dimen>
+    <dimen name="post_bottom_icon">25dp</dimen>
+    <dimen name="post_bottom_icon_gap">20dp</dimen>
+    <dimen name="post_bottom_check_w">25dp</dimen>
+    <dimen name="post_bottom_check_text">15sp</dimen>
+    <dimen name="post_jinghao_btn">15dp</dimen>
+    <dimen name="post_jinghao_text">12sp</dimen>
+
+    <dimen name="course_top_bar_h">50dp</dimen>
+    <dimen name="course_top_icon_size">20dp</dimen>
+    <dimen name="course_item_title">30sp</dimen>
+    <dimen name="course_item_evaluate">20sp</dimen>
+    <dimen name="course_item_post_header_size">50dp</dimen>
+    <dimen name="course_item_post_name_size">20sp</dimen>
+    <dimen name="course_item_post_data">10sp</dimen>
+    <dimen name="course_item_concern_btn_w">60dp</dimen>
+    <dimen name="course_item_concern_btn_h">40dp</dimen>
+    <dimen name="course_item_concern_btn_text">15sp</dimen>
+    <dimen name="course_item_intro">20sp</dimen>
+    <dimen name="course_item_step_size">20sp</dimen>
+    <dimen name="course_item_step_img_h">200dp</dimen>
+    <dimen name="course_item_step_content_size">20sp</dimen>
+    <dimen name="course_bottom_bar_h">60dp</dimen>
+    <dimen name="course_bottom_icon_size">25dp</dimen>
+    <dimen name="course_bottom_icon_text">15sp</dimen>
+<!--    course界面小卡片的尺寸-->
+    <dimen name="course_card_intro_text">20sp</dimen>
+    <dimen name="course_card_post_name">12sp</dimen>
+    <dimen name="course_card_post_header">18dp</dimen>
+</resources>
